@@ -1,7 +1,7 @@
 # Hi, I'm Pema 
 
 ## About Me
-I'm a data & business analyst with a passion for working with data to provide actionable insights. I have completed the TripleTen Business Intelligence Analyst Bootcamp and have experience working with Excel, Tableau, and Power BI.
+I'm an aspiring data & business analyst with a passion for using data to provide actionable insights. I recently completed the TripleTen Business Intelligence Analyst Bootcamp and have hands-on experience with tools like Excel, Tableau, and Power BI. My goal is to continue expanding my analytical skill set and apply them to solve real-world business problems.
 
 ## Skills
 - **Data Analysis**: Excel, SQL (Basic Queries)
@@ -11,13 +11,13 @@ I'm a data & business analyst with a passion for working with data to provide ac
 
 ## Projects I've worked on
 - **[Airbnb Manhattan Rental Analysis](https://github.com/yourusername/airbnb-analysis)**
-    - Analysis of Airbnb listings to find the best neighborhoods for vacation rentals in Manhattan.
+    - Conducted an analysis of Airbnb listings to identify the best neighborhoods in Manhattan for vacation rentals based on review frequency and revenue potential.
 - **[Zomato Sales Analysis (Tableau)](https://github.com/yourusername/zomato-sales-analysis)**
-    - Built a Tableau dashboard to analyze restaurant data and visualize sales performance.
+    - Built an interactive Tableau dashboard to analyze restaurant sales and provide insights on performance trends, helping businesses optimize their strategies.
 - **[Superstore Returns Analysis (Tableau)](https://github.com/yourusername/superstore-returns-analysis)**
-    - Analyzed product returns data to identify root causes and trends, supporting executive decision-making.
+    - Analyzed product returns data to uncover root causes and trends, offering actionable insights to improve product offerings and reduce returns.
 - **[Shopify App Analysis (Power BI)](https://github.com/yourusername/shopify-app-analysis)**
-    - Analyzed the Shopify App Store dataset, created visualizations, and identified trends in app reviews and success factors.
+    - Analyzed the Shopify App Store dataset using Power BI, created visualizations to uncover trends in app reviews, ratings, and key success factors for developers.
 
       
 
